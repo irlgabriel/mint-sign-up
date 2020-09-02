@@ -4,7 +4,6 @@
 }
 #wrapper {
   background-color: #e9e9e9;
-  min-height: 90vh;
 }
 nav {
   height: 60px;
@@ -35,6 +34,9 @@ nav {
   color: white;
   font-size: 13px;
   margin-right: 5px;
+}
+#logos {
+  min-height: 15vh;
 }
 form {
   background-color: #fff;
@@ -120,4 +122,23 @@ fieldset p {
 #form-footer p {
   width: 80%;
   margin: 0 auto;
+}
+footer {
+  margin-top: 30px;
+}
+#first-line-footer {
+  width: 15%;
+  margin: 0 auto;
+  
+}
+footer p a {
+  margin: 0px 5px;
+  color: black;
+}
+
+footer p {
+  font-size: 13px;
+}
+#second-line-footer {
+  margin: 0px;
 }
